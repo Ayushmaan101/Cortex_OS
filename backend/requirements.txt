@@ -1,0 +1,8 @@
+fastapi==0.133.1
+uvicorn==0.41.0
+httpx==0.28.1
+pydantic==2.12.5
+python-dotenv==1.2.1
+groq==1.0.0
+sentence-transformers
+numpy==2.2.6
